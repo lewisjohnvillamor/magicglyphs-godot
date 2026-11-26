@@ -1,0 +1,11 @@
+config_version=5
+
+[application]
+
+config/name="Magic Glyphs demo"
+run/main_scene="res://demo/demo.tscn"
+config/features=PackedStringArray("4.3")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/magic_glyphs/plugin.cfg")

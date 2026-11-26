@@ -1,0 +1,5 @@
+# Only the add-on goes into projects that download it from the Asset Library
+/demo export-ignore
+/project.godot export-ignore
+/test_addon.gd export-ignore
+/icon.png export-ignore
